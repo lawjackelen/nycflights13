@@ -36,7 +36,7 @@ lexisnexis
 
 ## Data Dictionary
 |Feature|Description|
-|---|---|---|---|
+|---|---|
 ||year|Numeric year for that flight|
 |month|Numeric month for that flight|
 |day|Numeric day for that flight|
