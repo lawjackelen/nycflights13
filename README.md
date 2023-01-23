@@ -16,7 +16,7 @@ This project requires few libraries:
 
 ## Project Directory
 ```
-lexisnexis
+nycflights13
 |__ code
 |   |__ 01_EDA.ipynb
 |   |__ 02_Preprocessing.ipynb
